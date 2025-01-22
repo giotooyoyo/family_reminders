@@ -1,0 +1,7 @@
+{ "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587, 
+  "sender_email": "xxx@gmail.com",
+  "sender_password": "xxx",
+  "recipient_email": "yyy@gmail.com",
+    "PASSWORD": "yyy"
+}
